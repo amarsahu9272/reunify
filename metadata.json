@@ -1,0 +1,5 @@
+{
+  "name": "Reunify",
+  "description": "An app that uses AI to create a heartwarming image of your present self reuniting with your younger self. Upload a recent photo and a childhood photo to see the magic.",
+  "requestFramePermissions": []
+}
